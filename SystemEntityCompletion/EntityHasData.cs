@@ -17,7 +17,7 @@ namespace Entity4.SystemEntityCompletion
                 Country country1 = new Country { Names = "China" };
 
                 Pol pol = new Pol { Name = "Мужчина" };
-                Pol pol1 = new Pol { Name = "Женчина" };
+                Pol pol1 = new Pol { Name = "Женщина" };
 
                 Groups Groups = new Groups { Name = "Группа 1" };
                 Groups Groups1 = new Groups { Name = "Группа 2" };
